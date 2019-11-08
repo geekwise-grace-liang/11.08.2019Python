@@ -1,0 +1,17 @@
+{
+    "IBAN": null,
+    "bank": {
+        "name": "The Royal Bank of Scotland",
+        "national_identifier": "rbs"
+    },
+    "holders": [
+        {
+            "is_alias": false,
+            "name": "Savings - Kids John"
+        }
+    ],
+    "id": "savings-kids-john",
+    "kind": "savings",
+    "number": "832425-00304050",
+    "swift_bic": null
+}
